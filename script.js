@@ -10,7 +10,7 @@ if (eventType == "casual") {
 
 if (tempFair < 54 ){
     clothing2 = "a coat";
-} else if (tempFair <=70) {
+} else if (tempFair <=79) {
     clothing2 = "a jacket";
 } else if (tempFair > 70) {
     clothing2 = "no jacket";
